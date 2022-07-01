@@ -1,2 +1,2 @@
-# Recriando-a-p-gina-do-Instagram
+# Recriando-a pagina-do-Instagram
 Esse projeto é um desafio do módulo Html e CSS do Bootcamp Santander
